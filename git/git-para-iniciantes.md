@@ -20,7 +20,7 @@ Então, da próxima vez que pensar em fazer cópias e renomeações loucas, cons
 
 ## Comandos básicos do Git
 
-<mark>OBS:</mark> Alguns comandos deste tópico tem vantagens e desvantagem em serem usados, neste tópico não irei tratar delas, ficará para outro post.
+<mark>OBS:</mark> Alguns comandos deste tópico tem vantagens e desvantagens em serem usados, neste tópico não irei tratar delas, ficará para outro post.
 
 - <code>git init</code>
 

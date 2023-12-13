@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -160,8 +160,8 @@
   },
   "active": "6fb346c219b52c6c",
   "lastOpenFiles": [
-    "Todo/to-do.md",
     "Home.md",
+    "Todo/to-do.md",
     "Todo",
     "Todo/to-do.md",
     "README.md",

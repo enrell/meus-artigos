@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b591a35d25981008",
+        "id": "8ff6140c3749e43d",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb346c219b52c6c",
+            "id": "d70138ca575ee9be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "git/git-para-iniciantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd3337e977dde7cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/github+git-para-iniciantes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "git/github+git-para-iniciantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "git/github+git-para-iniciantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "git/github+git-para-iniciantes.md"
               }
             }
           },
@@ -158,13 +171,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6fb346c219b52c6c",
+  "active": "cd3337e977dde7cd",
   "lastOpenFiles": [
+    "git/images/print-criar-repo-1.png",
+    "git/images/print-criar-repo-5.png",
+    "git/images/print-criar-repo-4.png",
+    "git/images/prit-criar-repo-3.png",
+    "git/images/Pasted image 20231213142952.png",
+    "git/images/print-criar-repo-2.png",
+    "git/images/git-logo.png",
+    "git/github+git-para-iniciantes.md",
+    "git/git-para-iniciantes.md",
+    "README.md",
     "Home.md",
     "Todo/to-do.md",
     "Todo",
     "Todo/to-do.md",
-    "README.md",
     "Svelte learning.md",
     "Todo",
     "Kanban/Learn.md",

@@ -1,4 +1,4 @@
-## O que é Github?
+## O que é GitHub?
 
 O [GitHub](https://github.com) é uma plataforma de desenvolvimento baseado em Git, lá você encontra uma gama de ferramentas úteis para o desenvolvimento de qualquer tipo de aplicação, para pessoas e empresas.
 
@@ -48,4 +48,6 @@ A forma mais indicada para a criar um repositório no GitHub é através do pró
 
 ![[print-criar-repo-5.png]]
 
-## Como re
+## Importando um projeto e subindo para o GitHub
+
+O primeiro passo é criar um par de chaves SSH,

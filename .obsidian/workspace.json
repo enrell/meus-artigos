@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "c42e84736aaada2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b591a35d25981008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fb346c219b52c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68e5f1780b244487",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb291748a5cc4c6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71086b18f039ba67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32b358d588590426",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84a8c66b62fbefe6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f5d27c9da9389ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d9794881d38b2b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abc594ca95b13731",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c201e1417126d2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d12a927dd817c9db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3d8ace2e92083c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "2fd59582ae912e13",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "6fb346c219b52c6c",
+  "lastOpenFiles": [
+    "Todo/to-do.md",
+    "Home.md",
+    "Todo",
+    "Todo/to-do.md",
+    "README.md",
+    "Svelte learning.md",
+    "Todo",
+    "Kanban/Learn.md",
+    "Kanban/Projects",
+    "docker/Web Applications in Docker/Web Applications in Docker.md",
+    "docker/Web Applications in Docker/Pasted image 20230705211549.png",
+    "docker/Web Applications in Docker",
+    "Kanban",
+    "2023-10-30.md",
+    "Untitled.canvas",
+    "lunarVim/Shortcuts.md",
+    "docker/Web Applications in Docker/Pasted image 20230705212548.png"
+  ]
+}

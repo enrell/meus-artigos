@@ -22,7 +22,9 @@ Então, da próxima vez que pensar em fazer cópias e renomeações loucas, cons
 
 <mark>OBS:</mark> Alguns comandos deste tópico tem vantagens e desvantagens em serem usados, neste tópico não irei tratar delas, ficará para outro post.
 
-- <code>git init</code>
+```
+git init
+```
 
 O primeiro comando básico que você vai usar é o <code>git init</code>, mas o que ele faz? para que serve?
 
@@ -33,24 +35,34 @@ Quando você executa <code>git init</code>, alguns arquivos e diretórios espec�
 <mark>NÃO EXCLUA A PASTA .git DE FORMA ALGUMA!</mark>
 Se você fizer isso, apagará todo seu histórico de modificações do seu repositório local.
 
-- <code>git config user.name</code> e <code>git config user.email</code>
+```
+git config user.name "seu nome"
+```
 
-Os comandos <code>git config user.name</code> e <code>git config user.email</code> são usados para configurar o nome do usuário e o endereço de e-mail associados aos commits que você faz em um repositório Git. Essas informações são incluídas em cada commit para identificar quem fez as alterações. Esses comandos são um passo importante para a identificação da pessoa que fez o commit, fundamental para a comunicação da equipe. Você irá usar da seguinte forma: <code>git config user.name (seu nome aqui)</code>, não esqueça de remover os (), a mesma sintaxe vale para o email.
+```
+git config user.email "seu email"
+```
 
-- <code>git add</code>
+Os comandos <code>git config user.name</code> e <code>git config user.email</code> são usados para configurar o nome do usuário e o endereço de e-mail associados aos commits que você faz em um repositório Git. Essas informações são incluídas em cada commit para identificar quem fez as alterações. Esses comandos são um passo importante para a identificação da pessoa que fez o commit, fundamental para a comunicação da equipe. Você irá usar da seguinte forma: <code>git config user.name "seu nome aqui"</code>, a mesma sintaxe vale para o email.
+
+```
+git add
+```
 
 O comando <code>git add</code> é utilizado no Git para adicionar mudanças específicas em arquivos ao chamado "index" (ou "staging area") vou explicar esses termos mais tarde. Essa etapa é necessária antes de realizar um commit para registrar as alterações no histórico do repositório.
 
 Quando você faz alterações em seus arquivos, o Git precisa saber quais dessas alterações você deseja incluir no próximo commit. O <code>git add</code> permite que você selecione as mudanças específicas que você quer incluir, preparando-as para o próximo commit. Você irá usar da seguinte maneira: <code>git add (nome do seu arquivo com sua extensão)</code>.
 
-- <code>git add .</code>
+```
+git add .
+```
 O comando <code>git add .</code> é utilizado para adicionar todas as mudanças que você fez ao "staging" (ou "área de preparação"), ou seja, todas as mudanças feitas nos seus arquivos serão preparadas para o commit.
 
-Eu recomendo cuidado ao usar o comando `<code>git add .</code>`, por exemplo:
+Eu recomendo cuidado ao usar o comando <code>git add .</code>
 
-Imagine que você tenha feito a página "sobre.html" do seu projeto e também feito algumas mudanças na página "home.html". No entanto, você só deseja fazer o commit das alterações na página "sobre" para manter as coisas organizadas.
+Por exemplo, imagine que você tenha feito a página "sobre.html" do seu projeto, e também feito algumas mudanças na página "home.html". No entanto, você só deseja fazer o commit das alterações na página "sobre", para manter as coisas organizadas.
 
-Se você usar `<code>git add .</code>`, você estará adicionando as mudanças tanto da página "sobre.html" quanto da "home.html" para o próximo commit, o que pode não ser o que você quer. Para evitar esse problema, é melhor usar `<code>git add sobre.html</code>`. Em seguida, você pode fazer o commit para registrar apenas as alterações na página "sobre.html" e manter seu histórico de versões mais preciso e organizado.
+Se você usar <code>git add .</code>, você estará adicionando as mudanças tanto da página "sobre.html" quanto da "home.html" para o próximo commit, o que pode não ser o que você quer. Para evitar esse problema, é melhor usar <code>git add sobre.html</code>. Em seguida, você pode fazer o commit para registrar apenas as alterações na página "sobre.html" e manter seu histórico de versões mais preciso e organizado.
 
 ## O que é Commit?
 

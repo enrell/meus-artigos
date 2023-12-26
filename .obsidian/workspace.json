@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "git/images/print-adicionar-ssh-4.png"
+                "file": "git/images/prit-criar-repo-3.png"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/images/print-adicionar-ssh-4.png",
+                "file": "git/images/prit-criar-repo-3.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/images/print-adicionar-ssh-4.png",
+                "file": "git/images/prit-criar-repo-3.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/images/print-adicionar-ssh-4.png"
+                "file": "git/images/prit-criar-repo-3.png"
               }
             }
           },
@@ -177,13 +177,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb2cb8bd96e4c948",
+  "active": "71086b18f039ba67",
   "lastOpenFiles": [
+    "git/github+git-para-iniciantes.md",
+    "git/images/print-adicionar-ssh-4.png",
     "Pasted image 20231226080517.png",
     "Pasted image 20231226093435.png",
-    "git/images/print-adicionar-ssh-4.png",
     "git/images/print-adicionar-ssh-5.png",
-    "git/github+git-para-iniciantes.md",
     "git/git-para-iniciantes.md",
     "ssh/ssh-para-iniciantes.md",
     "linux/daemon.md",

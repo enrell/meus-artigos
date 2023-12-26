@@ -40,7 +40,7 @@ A forma mais indicada para a criar um repositório no GitHub é através do pró
 3. **README:** Marque a opção para incluir um README, um arquivo de texto que descreve seu projeto.
 4. **Importação de Projeto Existente:** Se já tem um projeto, crie o repositório com README para facilitar. Depois, clone para seu computador, copie os arquivos do projeto para a pasta do repositório e faça o "push" para o GitHub.
 
-![[prit-criar-repo-3.png]]
+![[print-criar-repo-3.png]]
 
 #### Criei um repositório de exemplo
 

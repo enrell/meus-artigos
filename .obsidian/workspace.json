@@ -23,11 +23,9 @@
             "id": "bb2cb8bd96e4c948",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "git/github+git-para-iniciantes.md",
-                "mode": "source",
-                "source": false
+                "file": "git/images/print-adicionar-ssh-4.png"
               }
             }
           },
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/github+git-para-iniciantes.md",
+                "file": "git/images/print-adicionar-ssh-4.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/github+git-para-iniciantes.md",
+                "file": "git/images/print-adicionar-ssh-4.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/github+git-para-iniciantes.md"
+                "file": "git/images/print-adicionar-ssh-4.png"
               }
             }
           },
@@ -181,17 +179,17 @@
   },
   "active": "bb2cb8bd96e4c948",
   "lastOpenFiles": [
+    "Pasted image 20231226080517.png",
+    "Pasted image 20231226093435.png",
+    "git/images/print-adicionar-ssh-4.png",
+    "git/images/print-adicionar-ssh-5.png",
+    "git/github+git-para-iniciantes.md",
     "git/git-para-iniciantes.md",
     "ssh/ssh-para-iniciantes.md",
     "linux/daemon.md",
-    "git/github+git-para-iniciantes.md",
-    "git/images/print-adicionar-ssh-5.png",
     "git/images/print-adicionar-ssh-1.png",
-    "Pasted image 20231226093435.png",
-    "git/images/print-adicionar-ssh-4.png",
     "git/images/print-adicionar-ssh-3.png",
     "git/images/print-adicionar-ssh-2.png",
-    "Pasted image 20231226080517.png",
     "Home.md",
     "criptografia/openssh.md",
     "criptografia",
